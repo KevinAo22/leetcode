@@ -12,8 +12,8 @@
 
 | No. | Title | Solution | Difficulty |
 | ----- | -------- | ---------- | --------- |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](./Algorithms/No.2-AddTwoNumbers/AddTwoNumbers.swift) | Medium |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./Algorithms/No.1-TwoSum/TwoSum.swift) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](./algorithms/No.2-AddTwoNumbers/AddTwoNumbers.swift) | Medium |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/No.1-TwoSum/TwoSum.swift) | Easy |
 
 ## Database
 
