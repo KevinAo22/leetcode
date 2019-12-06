@@ -2,5 +2,5 @@
 
 | Number | Title | Solution | Difficulty |
 | ----- | -------- | ---------- | --------- |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](./#2 - AddTwoNumbers/AddTwoNumbers.swift) | Medium |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./#1 - TwoSum/TwoSum.swift) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Swift](./#2-AddTwoNumbers/AddTwoNumbers.swift) | Medium |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./#1-TwoSum/TwoSum.swift) | Easy |
